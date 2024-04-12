@@ -120,6 +120,8 @@ print(2 ** 3)  #2 to the power of 3
 print(10 // 3)  #asks for the remainder of the problem =(1)
 # Order of Operations followed in Python
 print(2 * 3 + 1)
+
+####
 # You can use parentheses to specify the order in which you want operations to be performed.
 
 #to do more you need to import special math libraries from python

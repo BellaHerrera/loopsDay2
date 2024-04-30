@@ -113,7 +113,7 @@ print(2 * 3)
 # Division
 print(10 / 2)
 # Modulus
-print(3 % 1)
+print(3 % 1) #remainder of the problem
 # Exponential
 print(2 ** 3)  #2 to the power of 3
 # Floor Division

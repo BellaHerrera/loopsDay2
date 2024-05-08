@@ -44,3 +44,7 @@ if high_income or good_credit and not student:
             print("b")
         else:
             print("c")
+
+
+
+            # LOOPS
